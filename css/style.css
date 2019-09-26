@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background-color: burlywood;
+}
+.main{
+    height: 600px;
+    width: 600px;
+    border: 10px solid black;
+    margin: 0 auto;
+
+}
+div{
+    box-sizing: border-box;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-size: 1.5rem;
+}
+.yellow{
+    background-color: yellow;
+    border: 10px solid black;
+    text-align: center;
+    color: red;
+    padding-left: 16px;
+}
+.red{
+    background-color: red;
+    border: 10px solid white;
+    text-align: center;
+    padding-top: 1rem;
+    margin-left: 10rem;
+}
+.blue{
+    background-color: blue;
+    border: 10px solid brown;
+    color: white;
+    text-align: center;
+    padding-right: 1rem;
+    margin-left: 20rem;
+}
